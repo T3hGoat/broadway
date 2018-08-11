@@ -1,0 +1,23 @@
+h1, h2, h3, p, .TopNav, .about{
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+h1, h2, h3{
+  font-weight: bold;
+}
+
+
+h1{
+  font-size: 70px;
+  color: white;
+}
+
+.TopNav{
+  color: white;
+  font-size: 18px;
+}
+
+.topimage{
+  background-image: url(../images/the-flatiron-building.png);
+}
