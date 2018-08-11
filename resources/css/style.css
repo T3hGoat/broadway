@@ -1,4 +1,4 @@
-h1, h2, h3, p, .TopNav, .about{
+h1, h2, h3, p, .about{
   text-align: center;
   font-family: Helvetica, sans-serif;
 }
@@ -13,11 +13,36 @@ h1{
   color: white;
 }
 
-.TopNav{
+.TopNav p{
   color: white;
   font-size: 18px;
 }
 
 .topimage{
   background-image: url(../images/the-flatiron-building.png);
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+}
+
+.NewYork {
+  font-size: 23px;
+  color: white;
+    background-image: url(../images/the-flatiron-building.png);
+}
+
+.footer p{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
